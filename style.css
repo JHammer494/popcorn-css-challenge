@@ -1,11 +1,18 @@
 body {
   background-color: #D4A76A;
+  background-size: 90px, 80px;
 }
 h1 {
   size: 140px;
   color: #553100;
   background-color: #FFDBAA;
   background-size: 200px;
+}
+nav {
+    background-color: #805215;
+    color:white;
+    height: 20px;
+    width: 60px;
 }
 /*COLORS:
 Header background - #FFDBAA
