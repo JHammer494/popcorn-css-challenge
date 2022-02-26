@@ -1,9 +1,11 @@
+body {
+  background-color: #D4A76A;
+}
 h1 {
-  size: 70px;
+  size: 140px;
   color: #553100;
   background-color: #FFDBAA;
-  margin-top: 70px;
-  margin-bottom: 140px;
+  background-size: 200px;
 }
 /*COLORS:
 Header background - #FFDBAA
