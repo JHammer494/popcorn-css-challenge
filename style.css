@@ -1,6 +1,9 @@
 h1 {
+  size: 70px;
   color: #553100;
   background-color: #FFDBAA;
+  margin-top: 70px;
+  margin-bottom: 140px;
 }
 /*COLORS:
 Header background - #FFDBAA
