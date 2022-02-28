@@ -2,18 +2,33 @@ body {
   background-color: #D4A76A;
   background-size: 90px, 80px;
 }
-h1 {
-  size: 140px;
+.header {
+  font-size: 40px;
   color: #553100;
   background-color: #FFDBAA;
-  background-size: 200px;
+  background-size: 70px, 60px;
+  padding: 40px;
+  border
+  border-color: black;
 }
 nav {
-    background-color: #805215;
-    color:white;
-    height: 20px;
-    width: 60px;
+    padding: 10px;
+
 }
+.btn {
+  height: 34px;
+  line-height: 34px;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ffff;
+  text-decoration: none;
+  background-color: #805215;
+  padding: 5px;
+  border: 1px solid transparent;
+  margin-left: 10px;
+}
+
 /*COLORS:
 Header background - #FFDBAA
 button - #805215
